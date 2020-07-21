@@ -1,0 +1,7 @@
+I have access to the latest 2019 USDA DB/repo.  IT's  a remake written not to give features many have wanted.
+
+Written in .net and uses Typescript Angular 6.
+
+Think you'd like to help/suggest movements?
+
+CH@DCH@ndle(lastletter is an r) ar gmail.com
